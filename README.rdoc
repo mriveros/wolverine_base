@@ -1,0 +1,24 @@
+== Portal de Datos Abiertos del Ministerio de Educación y Cultura del Paraguay
+
+Este portal pone a disposición de todo el mundo los datos de esta institución
+para que puedan ser consultados, redistribuidos y reutilizados libremente por
+cualquiera.
+
+== Los datasets publicados actualmente son:
+
+1. ESTABLECIMIENTOS ESCOLARES
+2. INSTITUCIONES EDUCATIVAS
+3. MATRICULA EDUCACION ESCOLAR BASICA - CICLOS
+4. MATRICULA EDUCACION INCLUSIVA
+5. MATRICULA EDUCACION PERMANENTE
+6. MATRICULA EDUCACION SUPERIOR
+7. MATRICULA EDUCACION INICIAL
+8. MATRICULA EDUCACION MEDIA
+9. MATRICULA POR DEPARTAMENTO Y DISTRITO
+
+* Para descargar los datos puede acceder a http://datos.mec.gov.py
+
+== Implementación del proyecto
+
+El proyecto fue desarrollado con el Framework para desarrollo agil de aplicaciones 
+web Ruby on Rails, la versión utilizada de ruby es la 1.9.3 con rails 3.2.13
